@@ -1,0 +1,8 @@
+# Compiled files
+*.o
+*.out
+main
+
+# Personal data
+*.bin
+*.csv
